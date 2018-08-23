@@ -1,0 +1,4 @@
+/Users/lauren/workspace/csharp/exercise2Tuples/obj/Debug/netcoreapp2.1/exercise2Tuples.csprojAssemblyReference.cache
+/Users/lauren/workspace/csharp/exercise2Tuples/obj/Debug/netcoreapp2.1/exercise2Tuples.csproj.CoreCompileInputs.cache
+/Users/lauren/workspace/csharp/exercise2Tuples/obj/Debug/netcoreapp2.1/exercise2Tuples.AssemblyInfoInputs.cache
+/Users/lauren/workspace/csharp/exercise2Tuples/obj/Debug/netcoreapp2.1/exercise2Tuples.AssemblyInfo.cs
